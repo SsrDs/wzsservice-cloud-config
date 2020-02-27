@@ -16,3 +16,5 @@ spring:
   profiles: prod # 生产环境
   application:
     name: wzsservice-config-prod
+person:
+  name: xiaoming
